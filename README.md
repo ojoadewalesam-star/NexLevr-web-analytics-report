@@ -1,7 +1,7 @@
 # 📊 Website Analytics & Social Listening Project Report
 
 **Author:** Ojo Adewale Samuel  
-**Program:** Nexlevr Weekly Internship Track  
+**Program:** Completed for the [Nexlevr](https://www.nexlevr.app) Weekly Internship Track  
 **Tools Used:** Google Analytics 4 (GA4), Google Alerts  
 
 ---
@@ -36,7 +36,7 @@ Connected to **Google Analytics 4 (GA4)** using the live **Google Merchandise St
 ## 2️⃣ Task 2: Patterns Found in Traffic Data (28-Day Analysis)
 
 ### **A. Top-Performing Pages & User Retention**
-* **Homepage Traffic vs. Bounce Rate:** The **Home** page drove the highest volume (**103K views**, **74K active users**) with a **61.7% bounce rate**.
+* **Homepage Traffic vs. Bounce Rate:** The **Home** page drove the highest volume (`103K views`, `74K active users`) with a `61.7%` bounce rate.
 * **High-Intent Category Pages:** Visitors who navigated deeper showed significantly stronger engagement:
   * **Google Merch Shop:** `47K views` | `47.2% bounce rate`
   * **New Arrivals:** `22K views` | `16.6% bounce rate`
@@ -53,7 +53,7 @@ Connected to **Google Analytics 4 (GA4)** using the live **Google Merchandise St
 
 ### **C. Geographic & Audience Trends**
 * **Platform Dominance:** **100.0%** of key events occurred on the **Web** platform.
-* **Campaign Anomaly Detection:** Automated GA4 insights detected a major **Paid Search spike on October 25, 2026**, bringing in **3,485 users** and **3,846 sessions** (well above forecasted norms).
+* **Campaign Anomaly Detection:** Automated GA4 insights detected a major **Paid Search spike on October 25, 2026**, bringing in `3,485 users` and `3,846 sessions` (well above forecasted norms).
 * **Top Geographic Hubs:** Led by **New York (`1.9K`)**, **Mountain View (`1.7K`)**, **San Francisco (`1.3K`)**, **Sunnyvale (`1.3K`)**, and **San Jose (`1K`)**, alongside international hubs **Karachi (`982`)** and **Lahore (`960`)**.
 * **Audience Segmentation:** Out of `107K` total users, `43K` scrolled 75%+ down a page, `18K` were classified as **Engaged Users**, and `10K` were flagged as **Likely 7-day purchasers**.
 
@@ -69,3 +69,5 @@ Connected to **Google Analytics 4 (GA4)** using the live **Google Merchandise St
 ## 📂 Repository Files
 * `README.md` — Full formatted project report and analysis.
 * `weekly_track_project_report.pdf` — Downloadable PDF version of the project report.
+
+#Nexlevr #WebAnalytics #DataAnalysis
